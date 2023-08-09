@@ -1,0 +1,121 @@
+body{
+    overflow-x:hidden;
+}
+
+*{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
+@media (max-width: 900px) {
+    * { font-size: 15px; }
+}
+
+@media (max-width: 400px) {
+    * { font-size: 12px; }
+}
+  
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+}
+
+.side2{position: relative;
+    text-align: right;
+   right: 20px;
+}
+.p1 , .p2{
+    font-size: 33px;
+}
+.p1{
+    color: #2F72C2;
+}
+
+.row_2{
+    text-align: center;
+    position: relative;
+    left: 230px;
+}
+
+.sideb{
+    background-color: #071E3E;
+    text-align: center  ;
+
+}
+
+.p4{
+    color: white;
+}
+
+.but1{
+    background-color:#071E3E ;
+    color: white;
+    border: 2px solid #0074FF;
+    border-radius: 18px;
+}
+
+.cont1{
+    margin-top: 110px;
+}
+
+.linesimg{
+    position: relative;
+    top: 130px;
+    left: 300px;
+}
+
+.line1{
+    position: relative;
+    top: 117px;
+    right: 450px;
+}
+.line2{
+    position: relative;
+    top: 151px;
+    right: 552px;
+}
+
+.row_2{
+    background-color: white;
+    border: 1px solid gray;
+    position: absolute;
+    bottom: 190px;
+}
+
+@media (max-width:500px){
+    .row_2{
+        display : block;
+    }
+    
+}
+
+.ele2{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    
+}
+
+.card-title{
+    color: #024C87;
+}

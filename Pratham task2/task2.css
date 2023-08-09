@@ -1,0 +1,53 @@
+.heading1{
+padding-left: 6%;
+padding-right: 6%;
+}
+
+div.f-cont{
+    border-radius: 20px; 
+    overflow: hidden; 
+    background-color: black; 
+    width: 80%;
+}
+div.img-circle{
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    border: 1px solid white; 
+    margin: 0 auto;
+    background-size: contain;
+    background-position: center;
+}
+
+.opp{
+    position: absolute;
+    top: 68%;
+    left: 15%;
+    color: white;
+    font-family: Poppins;
+font-style: normal;
+
+
+line-height: 150%;
+}
+
+.p1{
+    font-size: 150%;
+}
+
+.img1{
+    padding-right: 11%;
+    padding-left:11% ;
+    
+}
+
+.intro{
+    background-color: #eed2c4;
+}
+
+
+
+.shade{
+    background-color: rgba(236, 236, 236, 0.91);
+    border-radius: 12px;
+}

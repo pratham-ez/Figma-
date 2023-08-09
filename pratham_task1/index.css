@@ -1,0 +1,104 @@
+body{
+  font-family: 'Poppins' ;
+  overflow-x: hidden ;
+}
+
+.firstImg{
+  position: relative;
+  right: 50px;
+
+}
+.nav_container {
+    
+    background: linear-gradient(359.26deg, rgba(252, 96, 17, 0.47) -7.18%, rgba(255, 255, 255, 0) 143.19%);
+  }
+  .navbar{
+    
+    background: linear-gradient(359.26deg, rgba(235, 189, 172, 0.47) -7.18%, rgba(248, 199, 180, 0.47) -7.18%);
+      font-family: Poppins;
+     font-style: normal;
+      font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  margin-left: 60px;
+  margin-right: 20px;
+  }
+  .navbar-expand-lg {
+   
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FF6838;
+  }
+  .nav-item {
+    margin-left: 8vw;
+    color: black;
+  }
+  .navbar-light .navbar-brand {
+    color: rgb(232 103 93);
+    font-size: 23px;
+    line-height: 30px;
+}
+.heading{
+  margin-top: 30px;
+  
+
+}
+.text-content{
+  margin-top: 20px;
+  margin-left: 10px;
+  font-size: 1.5rem;
+}
+.img1{
+  margin-top: 100px;
+  
+}
+
+/* container2 */
+.container2{
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.container2_color{
+  color: #FF6838;
+}
+
+.card1{
+  text-align: center;
+}
+
+.apartImg{
+  width: 300px;
+  height: 200px;
+}
+
+.apart{
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.containerImg{
+  margin-left: 70px;
+}
+.container3{
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.largeImg{
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 1485px;
+  height: 340px;
+}
+
+.conscious{
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.container4{
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
